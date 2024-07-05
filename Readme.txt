@@ -1,0 +1,1 @@
+This file copy and privite an app, dont use it :)
